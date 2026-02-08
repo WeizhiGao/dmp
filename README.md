@@ -1,4 +1,4 @@
-# Anonymous Repo for AAAI 2026 submission: Decoding Memories: An Efficient Pipeline for Self-Consistency Hallucination Detection
+# Anonymous Repo for KDD 2026 submission: Decoding Memories: An Efficient Pipeline for Self-Consistency Hallucination Detection
 
 ## Setup
 ```
