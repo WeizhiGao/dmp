@@ -1,4 +1,4 @@
-# Anonymous Repo for KDD 2026 submission: Decoding Memories: An Efficient Pipeline for Self-Consistency Hallucination Detection
+# Decoding Memories: An Efficient Pipeline for Self-Consistency Hallucination Detection
 
 ## Setup
 ```
